@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Fatin Ilham</h1>
+<h1 align="center">👋 Hello, I'm Fatin Ilham!</h1>
 
 <p align="center">
 🎓 I'm a Computer Science student and a budding freelancer.<br>
